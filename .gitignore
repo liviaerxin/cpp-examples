@@ -1,0 +1,4 @@
+build/
+googlemock/
+.vscode/
+.DS_Store
